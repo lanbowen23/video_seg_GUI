@@ -1,4 +1,4 @@
-# GUI for 
+# GUI for Video Segmentation 636 project 2019 Spring
 Youtube link for the video demo is https://www.youtube.com/watch?v=dMKvayBvqWA&feature=youtu.be  
 
 The code uses python3 and tensorflow, basically just use `python main.py` then you may encounter missing package problem, 
